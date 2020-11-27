@@ -7,7 +7,7 @@ The code of maze generation is due to Joe Wingbermuehle.
 
 You can find a link to a demonstration video on youtube here:
 
-<*link*>
+https://youtu.be/tqqYuDbvYAs
 
 # Special features:
 
